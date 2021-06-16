@@ -1,0 +1,2 @@
+rootProject.name = "My SC"
+include ':app'
