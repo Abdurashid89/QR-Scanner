@@ -125,7 +125,7 @@ class CameraFragment : Fragment() {
                         stringBuilder.append(item.value)
                         stringBuilder.append("\n")
                     }
-                    // toast(stringBuilder.toString())
+                     toast(stringBuilder.toString())
                     regexPasportSeria(stringBuilder.toString())
                 }
             }
